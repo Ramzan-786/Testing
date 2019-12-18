@@ -1,1 +1,1 @@
-echo "Running JUnit Tests"
+echo "From Github: Running JUnit Tests"
