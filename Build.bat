@@ -1,1 +1,1 @@
-echo "Building the checked-out project"
+echo "From Github: Building the checked-out project"
