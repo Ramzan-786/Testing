@@ -1,1 +1,1 @@
-echo "Varifying Quality Gates"
+echo "From Github: Varifying Quality Gates"
