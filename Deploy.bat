@@ -1,1 +1,1 @@
-echo "Deploying stage envioroment for more tests"
+echo "From Github: Deploying stage envioroment for more tests"
