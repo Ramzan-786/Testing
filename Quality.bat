@@ -1,0 +1,1 @@
+echo "Varifying Quality Gates"
